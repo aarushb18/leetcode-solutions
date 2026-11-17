@@ -21,6 +21,7 @@ A collection of my accepted Data Structures & Algorithms and SQL solutions from 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aarushb18/leetcode-solutions/tree/main/Java/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/aarushb18/leetcode-solutions/tree/main/Java/0054-spiral-matrix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,4 +30,9 @@ A collection of my accepted Data Structures & Algorithms and SQL solutions from 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aarushb18/leetcode-solutions/tree/main/Java/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/aarushb18/leetcode-solutions/tree/main/Java/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/aarushb18/leetcode-solutions/tree/main/Java/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
