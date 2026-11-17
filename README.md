@@ -1,5 +1,19 @@
-# leetcode-solutions
-Solutions to LeetCode DSA problems in Java and SQL queries in PostgreSQL.
+# LeetCode Solutions 🚀
+
+A collection of my accepted Data Structures & Algorithms and SQL solutions from [LeetCode](https://leetcode.com/), automatically synced via LeetHub.
+
+### 📂 Repository Structure
+
+- **`Java/`** — Data Structures & Algorithms solutions focused on clean logic and optimal time/space complexity.
+- **`PostgreSQL/`** — Relational database queries covering joins, aggregations, subqueries, window functions, and schema filtering.
+
+### 🎯 Focus Areas
+
+- Arrays, Strings, Hashing & Two Pointers
+- Linked Lists, Stacks, Queues & Trees
+- Recursion, Dynamic Programming & Graphs
+- SQL Query Optimization & Data Analysis
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
