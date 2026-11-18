@@ -35,4 +35,8 @@ A collection of my accepted Data Structures & Algorithms and SQL solutions from 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/aarushb18/leetcode-solutions/tree/main/Java/0054-spiral-matrix/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0620-not-boring-movies](https://github.com/aarushb18/leetcode-solutions/tree/main/PostgreSQL/0620-not-boring-movies/) | Easy |
 <!---LeetCode Topics End-->
