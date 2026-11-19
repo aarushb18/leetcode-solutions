@@ -39,4 +39,5 @@ A collection of my accepted Data Structures & Algorithms and SQL solutions from 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0620-not-boring-movies](https://github.com/aarushb18/leetcode-solutions/tree/main/PostgreSQL/0620-not-boring-movies/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aarushb18/leetcode-solutions/tree/main/PostgreSQL/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 <!---LeetCode Topics End-->
