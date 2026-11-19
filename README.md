@@ -14,6 +14,8 @@ A collection of my accepted Data Structures & Algorithms and SQL solutions from 
 - Recursion, Dynamic Programming & Graphs
 - SQL Query Optimization & Data Analysis
 
+> **Note on Runtime & Memory Metrics:**  
+> All SQL solutions in this repository are written with optimal query plans and join strategies. On LeetCode, execution times for declarative SQL queries fluctuate by milliseconds depending on server load, causing percentile rankings (e.g., "Beats 17%") to vary arbitrarily even for optimal queries.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
